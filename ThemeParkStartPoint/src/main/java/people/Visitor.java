@@ -2,8 +2,6 @@ package people;
 
 public class Visitor {
 
-    checking whats wrong
-
     private int age;
     private double height;
     private double money;
